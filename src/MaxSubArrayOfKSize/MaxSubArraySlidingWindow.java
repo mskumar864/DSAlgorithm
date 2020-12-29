@@ -8,7 +8,7 @@ public class MaxSubArraySlidingWindow {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	    System.out.println("Maximum sum of a subarray of size K: "
+	    System.out.println("Maximum sum of a subarray of size K:  "
 		        + MaxSubArraySlidingWindow.MaxSubArrayBruteForce(3, new int[] { 2, 3, 4, 1, 5 }));
 	}
 
